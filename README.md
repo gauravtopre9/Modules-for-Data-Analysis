@@ -7,4 +7,5 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Pandas CheetSheet 1](http://datasciencefree.com/python.pdf)
+
 [Pandas Cheetsheet 2](http://datasciencefree.com/pandas.pdf)
